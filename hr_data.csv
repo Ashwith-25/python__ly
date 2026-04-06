@@ -1,0 +1,12 @@
+EmployeeID,Name,Department,PerformanceScore,JoiningDate
+101,Arjun,IT,88,2021-06-15
+102,Meera,HR,76,2020-03-10
+103,Ravi,Finance,92,2019-11-25
+104,Ananya,,85,2022-01-05
+105,Kiran,IT,,2021-08-19
+106,Divya,Marketing,67,2020-07-30
+107,Rohit,Finance,73,invalid_date
+108,Sneha,HR,81,2021-12-12
+109,Amit,IT,90,2020-05-21
+110,Pooja,,78,2022-02-14
+110,Pooja,,78,2022-02-14

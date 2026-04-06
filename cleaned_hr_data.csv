@@ -1,0 +1,11 @@
+EmployeeID,Name,Department,PerformanceScore,JoiningDate,Category
+101,Arjun,IT,88.0,2021-06-15,Excellent
+102,Meera,HR,76.0,2020-03-10,Good
+103,Ravi,Finance,92.0,2019-11-25,Excellent
+104,Ananya,Unknown,85.0,2022-01-05,Excellent
+105,Kiran,IT,80.8,2021-08-19,Good
+106,Divya,Marketing,67.0,2020-07-30,Needs Improvement
+107,Rohit,Finance,73.0,,Good
+108,Sneha,HR,81.0,2021-12-12,Good
+109,Amit,IT,90.0,2020-05-21,Excellent
+110,Pooja,Unknown,78.0,2022-02-14,Good
